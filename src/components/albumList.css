@@ -1,0 +1,19 @@
+.my-album{
+display: flex;
+align-items: center;
+flex-wrap: wrap;
+justify-content: center;
+}
+.edit-album-form input{
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.edit-album-form button{
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+}
